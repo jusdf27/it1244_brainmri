@@ -35,7 +35,7 @@ The first code block contains all the import statements
 ```
 '''
 !pip install numpy==1.24.3
-##remaining import statements...
+##remaining install statements...
 !pip install tensorflow==2.12.1
 '''
 ```
